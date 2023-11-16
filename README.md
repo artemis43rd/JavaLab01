@@ -1,2 +1,2 @@
 # lab01
-My repositories with Java Labs in SPBSTU
+My repositories with Java Lab01

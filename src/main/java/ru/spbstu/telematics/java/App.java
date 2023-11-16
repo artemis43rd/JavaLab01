@@ -2,7 +2,7 @@ package ru.spbstu.telematics.java;
 
 public class App
 {
-    public static double[] SOE(double[][] coef, double[] equally)
+    public static double[] SLS(double[][] coef, double[] equally)
     {
         int n = equally.length;
 
